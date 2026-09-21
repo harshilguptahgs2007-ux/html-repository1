@@ -2,13 +2,13 @@
 
 A personal collection of HTML code and notes, documenting my journey of learning and practicing HTML — from the fundamentals onward.
 
-## 📌 About
+##  About
 
 This repository is where I'm building up hands-on experience with HTML, one step at a time. It currently covers the **beginning/foundational concepts**, and will keep growing as I learn more.
 
-> 🚧 **Status:** Work in progress — to be continued!
+>  **Status:** Work in progress — to be continued!
 
-## 📖 What's Covered So Far
+##  What's Covered So Far
 
 - Basic HTML structure (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`)
 - Common tags and elements
@@ -20,7 +20,7 @@ This repository is where I'm building up hands-on experience with HTML, one step
 
 *(Update this list as you add more topics/files.)*
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
 Html-repository1/
@@ -29,32 +29,31 @@ Html-repository1/
 └── ...                 # More files to be added as learning progresses
 ```
 
-## 🚀 How to Use
-
+## How to Use
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/Html-repository1.git
    ```
 2. Open any `.html` file in your browser to view it, or in a code editor to explore the code.
 
-## 🎯 Goals
+##  Goals
 
 - Strengthen core HTML fundamentals
 - Practice writing clean, semantic markup
 - Gradually move on to more advanced topics (forms, accessibility, HTML5 features, etc.)
 - Eventually combine with CSS and JavaScript projects
 
-## 📅 Progress Log
+## Progress Log
 
 | Date | What was added |
 |------|-----------------|
 | TBD  | Initial commit — basic HTML structure |
 
-## 🤝 Contributing
+##  Contributing
 
 This is a personal learning repository, but suggestions, corrections, and tips are always welcome — feel free to open an issue or a pull request.
 
-## 📄 License
+##  License
 
 This project is open source and available for learning purposes.
 
